@@ -1,4 +1,5 @@
-# Virtual Drag and Drop 🤞🧮 [![Project Status: Concept](https://www.repostatus.org/badges/latest/concept.svg)](https://www.repostatus.org/#concept)
+# Virtual Drag and Drop 🤞🧮 [![Project Status: Concept](https://www.repostatus.org/badges/latest/concept.svg)](https://www.repostatus.org/#concept) [![](https://img.shields.io/badge/Prateek-Ralhan-brightgreen.svg?colorB=ff0000)](https://prateekralhan.github.io/)
+
 
 A virtual Image drag and drop system built on top of opencv and mediapipe for importing images and moving them around the screen using our hands 
 
